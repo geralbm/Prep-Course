@@ -1,6 +1,5 @@
 # Homework: Introducción a Javascript
 
----
 
 ## Instrucciones
 
