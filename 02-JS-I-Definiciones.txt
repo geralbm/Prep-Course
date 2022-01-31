@@ -1,0 +1,10 @@
+02-JS-I: HomeWork
+## Instrucciones
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables: Es un espacio de memoria que permite guardar información de distinto tipo, para luego ser utilizada para operar, evaluar y/o mostrar la misma. En Java Script el tipo de dato puede variar según se requiera durante una misma ejecución, por ello se dice que Java Script es NO tipado. Se crea una variable a través de la palabra reservada VAR. Estructura: VAR [nombre de la variable] = [valor]. Ejemplo: VAR num = 3;
+ * Strings: Es un tipo de dato. Son bloques de palabras y/o texto, se escribe entre comillas simples o dobles. Más de una palabra se dice cadena o string.
+ * Funciones (argumentos, `return`): Es un bloque de código que permite ser reutilizable tantas veces como se requiera, evitando así la re escritura del código una y otra vez. La misma posee un nombre por la cual se invoca, y lleva argumentos o no. Puede devolver un valor a través de return.
+ * Declaraciones `if`: Estructura de condición, donde esta requiere ser una expresión (no puede ser una sentencia)  según la respuesta se puede o no hacer alguna acción por el lado verdadero o falso de la condición aplicada, además se puede aplicar en funciones, retornando un valor.
+ * Valores booleanos (`true`, `false`): Es un tipo de dato binario, es decir está conformado por solamente dos valores posibles: True o False. Responde a la lógica booleana.
+
