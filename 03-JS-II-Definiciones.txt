@@ -1,0 +1,4 @@
+FOR: Estructura de repetición del tipo bucle, que se utiliza cuando se conoce la cantidad de veces que se requiere utilizar o ejecutar acciones, ya que tiene un valor inicial y un valor final en su estructura. Está conformado por expresión inicial, una condición  y una expresión final.
+&&: Operador lógico y se utiliza cuando es necesario cumplir las dos condiciones, es decir ambas deben ser verdaderas.
+||: Operador lógico y se utiliza cuando se requiere que al menos una de las condiciones sea verdadera.
+!: Operador lógico y devuelve el valor negado u opuesto al valor que acompaña esta operador.
