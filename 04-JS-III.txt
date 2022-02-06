@@ -1,0 +1,5 @@
+Definiciones Iniciales JS III
+
+Arryas: Lista de elementos ordenados a través de un índice, donde este inicia en cero. 
+Como Java Script no es fuertemente tipado un array puede contener distintos tipos de datos tales como, var, const, funciones, string, bolean, etc. 
+-
