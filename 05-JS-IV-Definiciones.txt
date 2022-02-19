@@ -1,0 +1,12 @@
+Definiciones Iniciales JS IV
+Objetos: Es una colección de propiedades.
+Propiedades: Es una asociación entre nombre y un valor (Key – value). Nos permite modelar una estructura de datos específica. Admite todos los tipos de datos disponibles de java script, vectores, métodos.
+El nombre de cada propiedad es única para cada objeto.
+Varias propiedades pueden tener el mismo valor.
+Se instancian usando {}
+Métodos: Son funciones que pueden ser re utilizables y en java script se llaman métodos.
+Bucle `for…in`: Estructura que permite recorrer un objeto, ya que los objetos no poseen índice es que se utiliza dicha estructura.
+Notación de puntos vs notación de corchetes: 
+-	La notación con punto: Es literal, es decir la propiedad debe existir y debe tener un valor asignado, sino su resultado será undefined. Por otro lado no permite el uso de variables luego del punto.
+-	Notación con corchetes: Permite el uso variables declaradas previamente, dentro del objeto mismo, y esta acción da la posibilidad de reutilizar funciones para distintos objetos, mediante la opción .this Que hace referencia a una propiedad del objeto. Siendo la propiedad una variable, y esta puede cambiar el valor y de esta manera no es necesario modificar cada método. 
+
