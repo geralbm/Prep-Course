@@ -1,0 +1,3 @@
+Definiciones Iniciales JS V
+Prototype: Son las propiedades que tiene un objeto, estas serían como globales y pueden ser usadas por los futuros objetos que se creen desde dicha clase. Cada clase tiene una propiedad prototype, que luego se puede establecer como método. Se tiene acceso a través de la palabra .this que indica que se está apuntando al objeto (a la izquierda del punto).
+Constructors (de Clases): Es una plantilla para la creación de objetos según un modelo pre definido, usando las clases para representar entidades o conceptos (se dice que son los sustantivo) ej. La clase seria alumno, y una instancia seria es el alumno Boris (objeto Boris) 
