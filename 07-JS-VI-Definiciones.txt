@@ -1,0 +1,6 @@
+Definiciones Iniciales JS VI
+Funciones Callback: 
+-Es la capacidad que tiene Javascript de recibir a funciones como argumentos, en la llamada de un método y se puede retornar.
+-Se crea a través de CB al crear el método, allí se estaría definiendo que se espera recibir un funcion escribiendo el nombre de la misma sin ().
+-Al invocarla se coloca solamente el nombre de la funcion, es decir sin paréntesis.
+-En la invocación del método se puede “crear” una funcion y se hace en la misma llamada.
